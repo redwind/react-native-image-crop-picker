@@ -17,8 +17,8 @@ import android.provider.MediaStore;
 import android.util.Base64;
 import android.webkit.MimeTypeMap;
 
-import androidx.core.app.ActivityCompat;
-import androidx.core.content.FileProvider;
+import android.support.v4.app.ActivityCompat;
+import android.support.v4.content.FileProvider;
 
 import com.facebook.react.bridge.ActivityEventListener;
 import com.facebook.react.bridge.Callback;
